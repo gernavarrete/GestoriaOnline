@@ -1,0 +1,25 @@
+.divbtn {
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+}
+
+.divbtn Button {
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem
+  }
+.inputPatente {
+    width:auto;
+    height: 2rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+  }
+  
+.inputCorreo {
+    width:20rem;
+    height: 2rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+  }
+.input:hover {
+    border: solid 2px black;
+}
